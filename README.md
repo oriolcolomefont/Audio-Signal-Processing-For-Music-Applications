@@ -24,3 +24,9 @@ This exercise on the Harmonic model will help you better understand the issue of
 
 ## Week 7 - Sinusoidal plus residual model
 In this exercise you will analyze and synthesize sounds using the Harmonic plus Stochastic (HPS) model, hpsModel.py.
+
+## Week 8: Sound transformations
+In this exercise you will use the HPS model to creatively transform sounds. There are two parts in this exercise. In the first one you should perform a natural sounding transformation on the speech sound that you used in the previous exercise (E7). In the second part you should select a sound of your choice and do a "creative" transformation. You will have to write a short description of the sound and of the transformation you did, giving the link to the original sound and uploading several transformed sounds.
+
+##Week 9: Sound and music description
+With this exercise you will learn to describe sounds with simple machine learning methods. You will learn to use the Freesound API to load pre-computed sound descriptors from Freesound and to perform sound clustering and classification with them. You will work with instrumental sounds, thus learning what audio features are useful for characterizing them.
