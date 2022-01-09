@@ -4,7 +4,7 @@ Assignments for Audio Signal Processing for Music Applications on MTG-UPF Msc So
 IMPORTANT NOTE: It's for my personal learning purpose only.
 
 
-## Week 1 - Python and sounds
+## Week 1 - Python and sounds https://github.com/oriolcolomefont/Audio-Signal-Processing-For-Music-Applications/blob/main/ASPMA%20Final%20exam%20-%20Oriol%20Colom%C3%A9%20Font.ipynb
 This exercise aims to get familiar with some basic audio operations using Python.
 
 ## Week 2 - Sinusoids and the DFT
