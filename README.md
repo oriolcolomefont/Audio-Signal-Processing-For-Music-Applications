@@ -1,7 +1,7 @@
 # Audio Signal Processing For Music Applications
 Assignments for Audio Signal Processing for Music Applications on MTG-UPF Msc Sound And Music Computing. 
 
-IMPORTANT NOTE: It's for my personal learning purpose only.
+IMPORTANT NOTE: This repo is intended for my personal learning purpose only.
 
 
 ## Week 1 - Python and sounds
