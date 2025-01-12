@@ -1,32 +1,73 @@
 # Audio Signal Processing For Music Applications
-Assignments for Audio Signal Processing for Music Applications on MTG-UPF Msc Sound And Music Computing. 
 
-IMPORTANT NOTE: This repo is intended for my personal learning purpose only.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+> ⚠️ **Academic Integrity Notice**: This repository contains my personal work and solutions for the Audio Signal Processing for Music Applications course at MTG-UPF. It is shared for portfolio purposes only. If you are currently enrolled in this course, please note that viewing or copying these solutions would violate academic integrity policies. Please develop your own solutions to the assignments.
 
-## Week 1 - Python and sounds
-This exercise aims to get familiar with some basic audio operations using Python.
+This repository contains a comprehensive collection of assignments and projects completed during the Audio Signal Processing for Music Applications course at MTG-UPF MSc Sound And Music Computing program. The work showcases various aspects of digital signal processing applied to music and audio analysis.
 
-## Week 2 - Sinusoids and the DFT
-Doing this exercise you will get a better understanding of the basic elements and operations that take place in the Discrete Fourier Transform (DFT).
+## 🎯 Project Overview
 
-## Week 3 - Fourier properties
-With this exercise you will get a better understanding of some of the Fourier theorems and of some useful properties of the DFT.
+This portfolio demonstrates practical implementations of key audio processing concepts including:
+- Basic audio operations in Python
+- Discrete Fourier Transform (DFT) and its properties
+- Short-time Fourier Transform (STFT)
+- Sinusoidal and Harmonic modeling
+- Sound transformations and creative audio processing
+- Machine learning applications in sound description
 
-## Week 4 - Short-time Fourier Transform
-Doing this exercise you will learn about the concept of the main lobe width of the spectrum of a window and you will better understand the short-time Fourier transform (STFT). You will also use the STFT to extract basic rhythm related information from an audio signal, implementing an onset detection function, which is one of the rhythm descriptors often used in music information retrieval to detect onsets of acoustic events.
+## 🚀 Getting Started
 
-## Week 5 - Sinusoidal model
-In this exercise you will experiment with the sinusoidal model, measuring and tracking sinusoids in different kinds of audio signals. You will use the sinusoidal model to analyze short synthetic sounds with the goal to better understand various aspects of sinusoid estimation and tracking. You will experiment with different parameters and enhancements of the sinusoidal modeling approach.
+### Prerequisites
 
-## Week 6 - Harmonic model
-This exercise on the Harmonic model will help you better understand the issue of fundamental frequency estimation by analyzing several sound examples with harmonic content.
+- Python 3.7+
+- Jupyter Notebook
+- Required Python packages (see requirements.txt)
 
-## Week 7 - Sinusoidal plus residual model
-In this exercise you will analyze and synthesize sounds using the Harmonic plus Stochastic (HPS) model, hpsModel.py.
+### Installation
 
-## Week 8: Sound transformations
-In this exercise you will use the HPS model to creatively transform sounds. There are two parts in this exercise. In the first one you should perform a natural sounding transformation on the speech sound that you used in the previous exercise (E7). In the second part you should select a sound of your choice and do a "creative" transformation. You will have to write a short description of the sound and of the transformation you did, giving the link to the original sound and uploading several transformed sounds.
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/Audio-Signal-Processing-For-Music-Applications.git
+cd Audio-Signal-Processing-For-Music-Applications
+```
 
-##Week 9: Sound and music description
-With this exercise you will learn to describe sounds with simple machine learning methods. You will learn to use the Freesound API to load pre-computed sound descriptors from Freesound and to perform sound clustering and classification with them. You will work with instrumental sounds, thus learning what audio features are useful for characterizing them.
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## 📁 Project Structure
+
+The repository is organized into weekly assignments, each focusing on different aspects of audio signal processing:
+
+1. **Week 1 - Python and sounds**: Introduction to basic audio operations using Python
+2. **Week 2 - Sinusoids and DFT**: Understanding basic elements and operations of the Discrete Fourier Transform
+3. **Week 3 - Fourier properties**: Exploration of Fourier theorems and DFT properties
+4. **Week 4 - STFT**: Implementation of Short-time Fourier Transform and onset detection
+5. **Week 5 - Sinusoidal model**: Analysis and tracking of sinusoids in audio signals
+6. **Week 6 - Harmonic model**: Fundamental frequency estimation and harmonic analysis
+7. **Week 7 - Sinusoidal plus residual model**: Analysis and synthesis using the Harmonic plus Stochastic model
+8. **Week 8 - Sound transformations**: Creative sound transformations using the HPS model
+9. **Week 9 - Sound and music description**: Machine learning applications for sound description
+
+## 📝 Usage
+
+Each notebook (.ipynb file) is self-contained with detailed explanations and implementations. To run a notebook:
+
+1. Navigate to the desired notebook
+2. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+3. Open the notebook and run the cells sequentially
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Acknowledgments
+
+- MTG-UPF Master's in Sound and Music Computing program
+- Course instructors and teaching assistants
+- Music Technology Group at Universitat Pompeu Fabra
