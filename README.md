@@ -1,6 +1,6 @@
 # Audio Signal Processing For Music Applications
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 > ⚠️ **Academic Integrity Notice**: This repository contains my personal work and solutions for the Audio Signal Processing for Music Applications course at MTG-UPF. It is shared for portfolio purposes only. If you are currently enrolled in this course, please note that viewing or copying these solutions would violate academic integrity policies. Please develop your own solutions to the assignments.
 
@@ -64,7 +64,7 @@ jupyter notebook
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details. This strong copyleft license helps ensure that derivatives of this code must also be open source, which aligns with academic principles of knowledge sharing while protecting against misuse.
 
 ## 🤝 Acknowledgments
 
